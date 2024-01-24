@@ -16,6 +16,14 @@ body {
   background: #555;
   padding: 50px;
 }
+.h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-style: italic;
+  color: #393737;
+  text-decoration: underline;
+}
 
 input {
   padding: 15px;
