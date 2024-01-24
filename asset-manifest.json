@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hrk_todo_app/static/css/main.21387969.css",
-    "main.js": "/hrk_todo_app/static/js/main.57df3f06.js",
+    "main.css": "/hrk_todo_app/static/css/main.29fe75db.css",
+    "main.js": "/hrk_todo_app/static/js/main.7dbc6eb3.js",
     "index.html": "/hrk_todo_app/index.html",
-    "main.21387969.css.map": "/hrk_todo_app/static/css/main.21387969.css.map",
-    "main.57df3f06.js.map": "/hrk_todo_app/static/js/main.57df3f06.js.map"
+    "main.29fe75db.css.map": "/hrk_todo_app/static/css/main.29fe75db.css.map",
+    "main.7dbc6eb3.js.map": "/hrk_todo_app/static/js/main.7dbc6eb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.21387969.css",
-    "static/js/main.57df3f06.js"
+    "static/css/main.29fe75db.css",
+    "static/js/main.7dbc6eb3.js"
   ]
 }
